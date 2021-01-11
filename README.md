@@ -9,5 +9,6 @@ This is an introduction for starter web
 Sample website with plenty of files for demos
 
 ## Deployment
+it can be through any web server
 
 ## How to contribute
