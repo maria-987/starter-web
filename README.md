@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 it can be through any web server
 
 ## How to contribute
+
+## Copyright
+2014 git.Training.
