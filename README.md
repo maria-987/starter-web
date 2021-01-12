@@ -17,4 +17,4 @@ it can be through any web server
 Please fork this repository
 
 ## Copyright
-2014 git.Training.
+2014 Git.Training. All rights reserved
